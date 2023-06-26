@@ -1,4 +1,4 @@
-const assert = require("chai").assert;     //assign the assert module from the chai library to the variable
+const assert = require('chai').assert;     //assign the assert module from the chai library to the variable
 const multiply = require("../multiply");   // import the multiply funtion
 
 describe("multiply test", function(){
